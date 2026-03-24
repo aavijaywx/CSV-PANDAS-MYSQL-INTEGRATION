@@ -1,0 +1,9 @@
+emp_id	first_name	last_name	email	phone_number	age	job_title	department	salary
+501	Vijay	Wankhade	vijay@gmail.com	123456789	26	Data Anaylst	IT	54928
+502	Samir	Dhoran	samir@gmail.com	132456789	26	Full stack Developer	IT	53960
+503	Shubham	Ambhore	shubham@gmail.com	142356789	34	python developer	IT	64045
+504	Shubham	Keche	shubham@gmail.com	151656789	29	Java developer	IT	43425
+505	Samir	Mohane	samir@gmail.com	161106789	29	Data Analyst	IT	69316
+506	Ankit	Gawai	ankit@gmail.com	170556789	28	Full stack Developer	IT	41366
+507	Ram	Khede	ram@gmail.com	180006789	30	Java developer	IT	65172
+								
